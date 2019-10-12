@@ -9,6 +9,109 @@
   [
     {"car_cod":1353,"car_ctip":12,"car_cesp":15,"car_cgra":1,"car_cdpto":35,"car_cplan":2012,"car_nro_nv":8,"car_creg":1,"car_cjor":1,"car_nv_grado":8,"car_modalidad":1},
     {"car_cod":1363,"car_ctip":13,"car_cesp":13,"car_cgra":1,"car_cdpto":35,"car_cplan":2012,"car_nro_nv":12,"car_creg":1,"car_cjor":1,"car_nv_grado":8,"car_modalidad":1}
-  ]
-  
+  ],
+  "asignatura":
+[
+{"asi_cod":13203,"asi_nom":"ESTRUCTURA DE COMPUTADORES","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13203","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13217,"asi_nom":"REDES DE COMPUTADORES","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13217","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13221,"asi_nom":"MÉTODOS DE OPTIMIZACIÓN","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13221","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13227,"asi_nom":"MODELACIÓN Y SIMULACIÓN","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13227","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13229,"asi_nom":"EVALUACIÓN DE PROYECTOS","asi_teo":2,"asi_ejer":0,"asi_lab":4,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13229","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13232,"asi_nom":"TÓPICOS DE ESPECIALIDAD II","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"S","asi_vig":"S","asi_cod_inge":"13232","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13250,"asi_nom":"MÉTODOS NUMÉRICOS Y ECUACIONES DIFERENCIALES","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13250","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13251,"asi_nom":"MÉTODOS DE PROGRAMACIÓN","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13251","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13255,"asi_nom":"ANÁLISIS DE ALGORTIMOS Y ESTRUCTURA DE DATOS","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13255","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13256,"asi_nom":"EVALUACIÓN Y GESTIÓN DE PROYECTOS","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13256","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13236,"asi_nom":"TÓPICOS DE ESPECIALIDAD IV","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"S","asi_vig":"S","asi_cod_inge":"13236","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10131,"asi_nom":"INGLES II","asi_teo":0,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10131","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13273,"asi_nom":"ESTRUCTURA DE COMPUTADORES","asi_teo":4,"asi_ejer":2,"asi_lab":1,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13273","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13275,"asi_nom":"ORGANIZACIÓN DE COMPUTADORES","asi_teo":4,"asi_ejer":1,"asi_lab":1,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13275","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13289,"asi_nom":"ADMINISTRACIÓN DE PROYECTOS INFORMÁTICOS","asi_teo":4,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13289","asi_sct":0}
+,{"asi_cod":10109,"asi_nom":"FÍSICA II PARA INGENIERÍA","asi_teo":4,"asi_ejer":2,"asi_lab":1,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10109","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10110,"asi_nom":"FUNDAMENTOS DE COMPUTACIÓN Y PROGRAMACIÓN","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10110","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10115,"asi_nom":"ANÁLISIS ESTADÍSTICO PARA INGENIERÍA","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10115","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10116,"asi_nom":"FUNDAMENTOS DE ECONOMÍA","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10116","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10117,"asi_nom":"COMUNICACIÓN EN INGLÉS","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10117","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13223,"asi_nom":"SISTEMAS DE COMUNICACIÓN","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13223","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13226,"asi_nom":"INGENIERÍA Y SOCIEDAD","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13226","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13235,"asi_nom":"PROYECTO DE INGENIERÍA INFORMÁTICA","asi_teo":0,"asi_ejer":0,"asi_lab":8,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13235","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13258,"asi_nom":"ORGANIZACIÓN DE COMPUTADORES","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13258","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13261,"asi_nom":"SISTEMAS DE INFORMACIÓN","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13261","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13264,"asi_nom":"SISTEMAS OPERATIVOS","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13264","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13241,"asi_nom":"TRABAJO DE TITULACIÓN","asi_teo":0,"asi_ejer":0,"asi_lab":32,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13241","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10123,"asi_nom":"ECUACIONES DIFERENCIALES Y METODOS NUMERICOS PARA INGENIERIA","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10123","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10129,"asi_nom":"CALCULO III PARA INGENIERÍA","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10129","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13279,"asi_nom":"INGENIERÍA DE SISTEMAS","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13279","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13287,"asi_nom":"INTRODUCCIÓN A INGENIERÍA INFORMÁTICA","asi_teo":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13287","asi_sct":0}
+,{"asi_cod":10112,"asi_nom":"ELECTRICIDAD Y MAGNETISMO PARA INGENIERÍA","asi_teo":4,"asi_ejer":0,"asi_lab":1,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10112","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13205,"asi_nom":"ANÁLISIS DE ALGORITMOS Y ESTRUCTURA DE DATOS","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13205","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13209,"asi_nom":"FUNDAMENTOS DE INGENIERÍA DE SOFTWARE","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13209","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13210,"asi_nom":"ALGORITMOS AVANZADOS","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13210","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13211,"asi_nom":"SISTEMAS DINÁMICOS","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13211","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13220,"asi_nom":"MÉTODOS DE INGENIERÍA DE SOFTWARE","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13220","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13267,"asi_nom":"PROYECTO DE INGENIERÍA DE SOFTWARE","asi_teo":2,"asi_ejer":0,"asi_lab":6,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13267","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13271,"asi_nom":"SEMINARIO DE TÍTULO","asi_teo":2,"asi_ejer":0,"asi_lab":4,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13271","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10132,"asi_nom":"INGLES III","asi_teo":0,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10132","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13285,"asi_nom":"SEMINARIO DE INFORMÁTICA","asi_teo":2,"asi_ejer":0,"asi_lab":4,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13285","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13277,"asi_nom":"TRABAJO DE TITULACIÓN","asi_teo":0,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13277","asi_titulo":"S","asi_sct":0}
+,{"asi_cod":10107,"asi_nom":"CALCULO II PARA INGENIERÍA","asi_teo":6,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10107","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13202,"asi_nom":"TEORÍA DE SISTEMAS","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13202","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13206,"asi_nom":"MATEMÁTICA APLICADA","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13206","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13207,"asi_nom":"DISEÑO DE BASES DE DATOS","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13207","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13214,"asi_nom":"ANTROPOLOGÍA E INGENIERÍA","asi_teo":4,"asi_ejer":0,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13214","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13230,"asi_nom":"TALLER DE INGENIERÍA DE SOFTWARE","asi_teo":2,"asi_ejer":0,"asi_lab":4,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13230","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13252,"asi_nom":"INGENIERÍA DE SISTEMAS","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13252","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13272,"asi_nom":"TRABAJO DE TITULACIÓN","asi_teo":0,"asi_ejer":0,"asi_lab":32,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13272","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13239,"asi_nom":"DIRECCIÓN Y GESTIÓN DE EMPRESAS","asi_teo":2,"asi_ejer":0,"asi_lab":4,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13239","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10113,"asi_nom":"COMUNICACIÓN EFECTIVA","asi_teo":2,"asi_ejer":0,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10113","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13208,"asi_nom":"ORGANIZACIÓN DE COMPUTADORES","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13208","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13215,"asi_nom":"TALLER DE BASES DE DATOS","asi_teo":2,"asi_ejer":0,"asi_lab":4,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13215","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13257,"asi_nom":"DISEÑO DE BASES DE DATOS","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13257","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13266,"asi_nom":"REDES COMPUTACIONALES","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13266","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13237,"asi_nom":"TÓPICOS DE ESPECIALIDAD V","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"S","asi_vig":"S","asi_cod_inge":"13237","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13238,"asi_nom":"TÓPICOS DE ESPECIALIDAD VI","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"S","asi_vig":"S","asi_cod_inge":"13238","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13281,"asi_nom":"ORGANIZACIÓN DE COMPUTADORES","asi_teo":4,"asi_ejer":1,"asi_lab":1,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13281","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13201,"asi_nom":"MÉTODOS DE PROGRAMACIÓN","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13201","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13212,"asi_nom":"SISTEMAS OPERATIVOS","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13212","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13213,"asi_nom":"PROCESAMIENTO DE LENGUAJES FORMALES","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13213","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13218,"asi_nom":"LÓGICA Y TEORÍA DE LA COMPUTACIÓN","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13218","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13222,"asi_nom":"ANÁLISIS DE DATOS","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13222","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13228,"asi_nom":"SISTEMAS DISTRIBUIDOS","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13228","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13231,"asi_nom":"TÓPICOS DE ESPECIALIDAD I","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"S","asi_vig":"S","asi_cod_inge":"13231","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13234,"asi_nom":"SEGURIDAD Y AUDITORÍA INFORMÁTICA","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13234","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13262,"asi_nom":"ADMINISTRACIÓN Y GESTIÓN INFORMÁTICA","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13262","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13263,"asi_nom":"TALLER DE BASES DE DATOS","asi_teo":2,"asi_ejer":0,"asi_lab":4,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13263","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10127,"asi_nom":"ELECTRICIDAD Y MAGNETISMO PARA INGENIERIA","asi_teo":4,"asi_ejer":2,"asi_lab":1,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10127","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10130,"asi_nom":"INGLES I","asi_teo":0,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10130","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13278,"asi_nom":"ESTRUCTURA DE COMPUTADORES","asi_teo":4,"asi_ejer":2,"asi_lab":1,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13278","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13282,"asi_nom":"ALGORITMOS NUMÉRICOS","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13282","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13284,"asi_nom":"LÓGICA Y TEORÍA DE LA COMPUTACIÓN","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13284","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13286,"asi_nom":"TRABAJO DE TITULACIÓN","asi_teo":0,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13286","asi_titulo":"S","asi_sct":0}
+,{"asi_cod":13200,"asi_nom":"MÉTODOS NUMÉRICOS Y ECUACIONES DIFERENCIALES","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13200","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13216,"asi_nom":"INFERENCIA Y MODELOS ESTADÍSTICOS","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13216","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13219,"asi_nom":"MACROECONOMÍA Y GLOBALIZACIÓN","asi_teo":4,"asi_ejer":0,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13219","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13233,"asi_nom":"TÓPICOS DE ESPECIALIDAD III","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"S","asi_vig":"S","asi_cod_inge":"13233","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13265,"asi_nom":"TÉCNICAS DE INGENIERÍA DE SOFTWARE","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13265","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13268,"asi_nom":"TÓPICOS DE ESPECIALIDAD I","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"S","asi_vig":"S","asi_cod_inge":"13268","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13270,"asi_nom":"TÓPICOS DE ESPECIALIDAD III","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"S","asi_vig":"S","asi_cod_inge":"13270","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13240,"asi_nom":"SEMINARIO DE PROYECTO DE TÍTULO","asi_teo":2,"asi_ejer":0,"asi_lab":6,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13240","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10121,"asi_nom":"CALCULO AVANZADO PARA INGENIERIA","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10121","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10133,"asi_nom":"INGLES IV","asi_teo":0,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10133","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13276,"asi_nom":"SEMINARIO DE COMPUTACIÓN E INFORMÁTICA","asi_teo":2,"asi_ejer":0,"asi_lab":4,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13276","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13288,"asi_nom":"EVALUACIÓN DE PROYECTOS INFORMÁTICOS","asi_teo":4,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13288","asi_sct":0}
+,{"asi_cod":10108,"asi_nom":"ALGEBRA II PARA INGENIERÍA","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10108","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13204,"asi_nom":"PARADIGMAS DE PROGRAMACIÓN","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13204","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13224,"asi_nom":"FINANZAS Y CONTABILIDAD","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13224","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13225,"asi_nom":"ADMINISTRACIÓN DE PROYECTOS DE SOFTWARE","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13225","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13253,"asi_nom":"ESTRUCTURA DE COMPUTADORES","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13253","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13254,"asi_nom":"PARADIGMAS DE PROGRAMACIÓN","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13254","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13259,"asi_nom":"FUNDAMENTOS DE INGENIERÍA DE SOFTWARE","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13259","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13260,"asi_nom":"INFORMÁTICA Y SOCIEDAD","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13260","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13269,"asi_nom":"TÓPICOS DE ESPECIALIDAD II","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"S","asi_vig":"S","asi_cod_inge":"13269","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10122,"asi_nom":"ECUACIONES DIFERENCIALES PARA INGENIERIA","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10122","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":10128,"asi_nom":"COMUNICACION EFECTIVA","asi_teo":0,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"10128","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13274,"asi_nom":"DISEÑO DE BASE DE DATOS","asi_teo":4,"asi_ejer":1,"asi_lab":1,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13274","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13280,"asi_nom":"DISEÑO DE BASE DE DATOS","asi_teo":4,"asi_ejer":1,"asi_lab":1,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13280","asi_titulo":"N","asi_sct":0}
+,{"asi_cod":13283,"asi_nom":"INFERENCIA Y MODELOS ESTADÍSTICOS","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13283","asi_titulo":"N","asi_sct":0}
+]
 }

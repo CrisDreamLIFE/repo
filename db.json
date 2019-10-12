@@ -1,31 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "alumno":
+  [
+    {"alu_rut":19185415,"alu_dv":"2","alu_paterno":"URRUTIA","alu_materno":"BERM�DEZ","alu_nombre":"CLAUDIO ALEJANDRO","alu_sexo":"2","alu_direc_stgo":"LOS JAZMINES 8168 SAN RAM�N","alu_comuna":622,"alu_region":13,"alu_sit_mili":0,"alu_fecha_nac":"02\/09\/95","alu_nacionalidad":152,"alu_e_mail":"claudio.urrutia.b@usach.cl","alu_e_mail2":"kakoo.ub@gmail.com","alu_celular":"966121087","alu_flag":"y8IT6H80WF0z32kT7dpDusIt3","alu_flag_estado":"N","alu_password":"aaa","alu_flag_datos":"N","alu_intentos_login":0,"alu_fultimo_login":"08\/10\/19","alu_fcambio_clave":"26\/11\/14"},
+    {"alu_rut":19313751,"alu_dv":"2","alu_paterno":"SEPÚLVEDA","alu_materno":"CÓRDOVA","alu_nombre":"CRISTIAN ALEJANDRO","alu_sexo":"2","alu_direc_stgo":"PASAJE 3 816 BLOCK 0816 DEPTO 301 VILLA RAUL SILVA HENRIQUEZ","alu_comuna":636,"alu_region":13,"alu_sit_mili":0,"alu_fecha_nac":"20\/03\/96","alu_nacionalidad":152,"alu_pais":"CHILE","alu_est_civ":0,"alu_e_mail":"cristian.sepulveda.co@usach.cl","alu_celular":"0959260584","alu_flag":"h4Oi6CmJ9X00Q66Z26c84b06v","alu_flag_estado":"N","alu_flag_datos":"N","alu_intentos_login":0,"alu_fultimo_login":"05\/10\/19","alu_fcambio_clave":"15\/06\/15"},
+    {"alu_rut":18992158,"alu_dv":"6","alu_paterno":"TORTI","alu_materno":"CASTILLO","alu_nombre":"RICHARD ANTHONY","alu_sexo":"2","alu_direc_stgo":"DOMINGO TOCORNAL 1522 VILLA LO TOCORNAL","alu_comuna":645,"alu_region":13,"alu_sit_mili":0,"alu_fecha_nac":"14\/01\/95","alu_nacionalidad":152,"alu_fono":"0000000","alu_est_civ":1,"alu_e_mail":"richard.torti@usach.cl","alu_e_mail2":"richard.torti@usach.cl","alu_celular":"45734645","alu_flag":"uQT3ZZ0cB5bZ4x3Mg9CkH4XX8","alu_flag_estado":"N","alu_flag_datos":"N","alu_intentos_login":0,"alu_fultimo_login":"03\/10\/19","alu_fcambio_clave":"22\/12\/14"}
+  ]
 }

@@ -9,12 +9,5 @@
   [
     {"car_cod":1353,"car_ctip":12,"car_cesp":15,"car_cgra":1,"car_cdpto":35,"car_cplan":2012,"car_nro_nv":8,"car_creg":1,"car_cjor":1,"car_nv_grado":8,"car_modalidad":1},
     {"car_cod":1363,"car_ctip":13,"car_cesp":13,"car_cgra":1,"car_cdpto":35,"car_cplan":2012,"car_nro_nv":12,"car_creg":1,"car_cjor":1,"car_nv_grado":8,"car_modalidad":1}
-  ],
-  "asignatura":
-[
-{"asi_cod":13203,"asi_nom":"ESTRUCTURA DE COMPUTADORES","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13203","asi_titulo":"N","asi_sct":0}
-,{"asi_cod":13217,"asi_nom":"REDES DE COMPUTADORES","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13217","asi_titulo":"N","asi_sct":0}
-,{"asi_cod":13221,"asi_nom":"MÉTODOS DE OPTIMIZACIÓN","asi_teo":4,"asi_ejer":0,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13221","asi_titulo":"N","asi_sct":0}
-,{"asi_cod":13227,"asi_nom":"MODELACIÓN Y SIMULACIÓN","asi_teo":4,"asi_ejer":2,"asi_lab":2,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13227","asi_titulo":"N","asi_sct":0}
-]
+  ]
 }

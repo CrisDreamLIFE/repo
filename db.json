@@ -1,11 +1,10 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "asignatura":[ {
+    "id": 1,
+    "name": "algebra1"
+  },
+  {
+    "id":2,
+    "name": "calculo1"
+  }]
 }
